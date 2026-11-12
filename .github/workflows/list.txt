@@ -1,0 +1,2 @@
+Hola, este es mi segundo workflow.
+Estoy aprendiendo GitHub Actions.
