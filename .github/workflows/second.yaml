@@ -1,5 +1,4 @@
 name: Welcome to the party (second)
-
 on:
   workflow_dispatch
 
